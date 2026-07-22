@@ -95,5 +95,5 @@ Here are some highlights from the **14+ Python & Data projects** I've built:
 
 - 💼 **LinkedIn:** [linkedin.com/in/neeraj-singla](https://www.linkedin.com/in/neeraj-singla-p36000/)
 - 📧 **Email:** [neerajsingla380@gmail.com](mailto:neerajsingla380@gmail.com)
-- 🌐 **Portfolio Website:** [Explore my responsive portfolio!]("https://nkportfolio36000.netlify.app/")
+- 🌐 **Portfolio Website:** [Explore my responsive portfolio!](https://nkportfolio36000.netlify.app/)
 - 📄 **Resume:** [Download my CV (PDF)](https://github.com/neeraj654123/Portfolio-Website-/raw/main/Neeraj_Kumar_Resume%20(1).pdf)

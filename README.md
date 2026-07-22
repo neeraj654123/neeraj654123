@@ -1,7 +1,7 @@
 # Hi there, I'm Neeraj Kumar! 👋
 
 <p align="left">
-  <a href="https://linkedin.com/in/neeraj-singla" target="_blank">
+  <a href="https://www.linkedin.com/in/neeraj-singla-p36000/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:neerajsingla380@gmail.com">
@@ -93,7 +93,7 @@ Here are some highlights from the **14+ Python & Data projects** I've built:
 
 ### 🤝 Let's Connect!
 
-- 💼 **LinkedIn:** [linkedin.com/in/neeraj-singla](https://linkedin.com/in/neeraj-singla)
+- 💼 **LinkedIn:** [linkedin.com/in/neeraj-singla](https://www.linkedin.com/in/neeraj-singla-p36000/)
 - 📧 **Email:** [neerajsingla380@gmail.com](mailto:neerajsingla380@gmail.com)
-- 🌐 **Portfolio Website:** [Explore my responsive portfolio!](https://neeraj654123.github.io/Portfolio-Website-/)
+- 🌐 **Portfolio Website:** [Explore my responsive portfolio!]("https://nkportfolio36000.netlify.app/")
 - 📄 **Resume:** [Download my CV (PDF)](https://github.com/neeraj654123/Portfolio-Website-/raw/main/Neeraj_Kumar_Resume%20(1).pdf)
